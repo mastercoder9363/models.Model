@@ -11,3 +11,7 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
+
+
+### "js"
+<img src = "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" alt = "JS">
